@@ -35,7 +35,7 @@ finnhub.io
 | R8,R9,R10          | 10K                        | Resistor_SMD:R_1206_3216Metric                                            | 3   |      | 311-10.0KFRCT-ND         |
 | SW1                | RotaryEncoder_Switch_MP    | Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm            | 1   | DNP     | PEC11R-4220F-S0024-ND    |
 | U1                 | MAX40200AUK                | Package_TO_SOT_SMD:SOT-23-5                                               | 1   |      | 175-MAX40203AUK+TCT-ND   |
-| U2                 | MP1584_Buck                | MP1584                                                                    | 1   |      | Aliexpress(https://www.aliexpress.us/item/3256806890547813.html)                         |
+| U2                 | MP1584_Buck                | MP1584                                                                    | 1   |    [Aliexpress](https://www.aliexpress.us/item/3256806890547813.html)                         |
 | U3                 | L7805                      | Package_TO_SOT_SMD:TO-252-2                                               | 1   |DNP      | 497-7255-1-ND            |
 
 
