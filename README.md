@@ -2,6 +2,11 @@
 ESP8266 (or ESP32) IoT data tickers for news, weather, stocks. For those classic looking 8x8 LED matrix modules. Custom ESP8266 Node MCU 12-E PCB (just bc i have a bunch of these dev boards I need to put to use to toss) with built-in buck converter (6-28V in) and SPI headers. PCB could use one more rev to address some quirks with the ESP8266's strapping pins (rotary encoder), but project is consider 'finished'.  
 https://youtu.be/6R5AQ15R8a4
 
+API's used:
+api.weather.gov
+https://newsapi.org/
+finnhub.io
+
 <img width="1920" height="1080" alt="vlcsnap-2025-07-13-12h41m03s127" src="https://github.com/user-attachments/assets/b098f0cc-9393-42ed-935b-0f0a0a135597" />
 
 ![PXL_20250623_163714544](https://github.com/user-attachments/assets/e7ffc85a-02b7-469b-b387-6faad6f4ef6c)
